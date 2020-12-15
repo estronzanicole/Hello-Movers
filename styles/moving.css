@@ -1,0 +1,98 @@
+.packing-move h2 {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #59abe3;
+    background: #fff;
+    position: relative;
+}
+
+.packing-move p {
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 150%;
+}
+.packing-move ol li {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #59abe3;
+    background: #fff;
+    position: relative;
+}
+
+.packing-move strong {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    background: #fff;
+    position: relative;
+}
+
+.probootstrap-section.probootstrap-bg-white {
+    background: #fff;
+}
+
+.probootstrap-section {
+    padding: 7em 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}
+
+body {
+    background: #e4e4e4;
+    color: #8b8e94;
+    line-height: 24px;
+    font-size: 15px;
+}
+
+.menus li .image {
+    width: 80px;
+}
+
+.menus li .image,
+.menus li .text {
+    display: table-cell;
+    vertical-align: top;
+}
+
+figure {
+    margin: 0;
+}
+
+.menus li {
+    padding: 0;
+    margin: 0 0 10px;
+    list-style: none;
+    display: block;
+    position: relative;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}

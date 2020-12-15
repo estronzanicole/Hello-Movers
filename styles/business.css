@@ -1,0 +1,32 @@
+.commercial-moving h3 {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #59abe3;
+    background: #fff;
+    position: relative;
+}
+
+.commercial-moving p {
+    font-family: "AmplitudeTF";
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 150%;
+}
+
+.commercial-moving u {
+    font-family: "AmplitudeTF";
+    font-size: 18px;
+
+    line-height: 150%;
+}
+
+.commercial-moving p {
+    font-family: "AmplitudeTF";
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 150%;
+    color: black;
+}

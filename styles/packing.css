@@ -1,0 +1,27 @@
+.packing h2 {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #59abe3;
+    background: #fff;
+    position: relative;
+}
+
+.packing p {
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 150%;
+}
+.packing h4 {
+    font-family: "AmplitudeTF";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #59abe3;
+    background: #fff;
+    position: relative;
+}
